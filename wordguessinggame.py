@@ -37,8 +37,8 @@ for char in word:
 if failed == 0:
 
     print("You win")
-    print("Word is: ", word)
-    break
+print("Word is: ", word)
+break
 
 
 print()
